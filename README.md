@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Bhola</h1>
-<h3 align="center">A passionate python developer and machine learning enthusiast from India</h3>
+<h3 align="center">A passionate python developer and machine learning engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavyaBhola](https://github.com/BhavyaBhola)
 
